@@ -22,7 +22,7 @@ The CLI made to preprocess the database and save your **time**:clock1:
 
 ## Run
 
-- Clone this Repository: `git clone https://github.com/utkryuk/ML-Preprocessor-CLI.git`
+- Clone this Repository: 
 - `cd ML-Preprocessor-CLI/`
 - `pip3 install -r requirements.txt`
 - Now run, python3 `main.py` [Dataset's Path]
@@ -41,4 +41,3 @@ The CLI made to preprocess the database and save your **time**:clock1:
 - Implement Undo and Redo for the Database.
 - Implement other preprocessing steps.
 
-#### If you have any questions, just let me know [here.](mailto:utkryuk@gmail.com)
